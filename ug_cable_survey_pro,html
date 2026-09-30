@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy policy — UG Cable Survey Pro</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f4f1ea;
+      color: #111;
+      font: 17px/1.5 Georgia, "Times New Roman", serif;
+    }
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 20px 64px;
+      background: #fff;
+    }
+    h1 { font-size: 32px; line-height: 1.2; margin: 0 0 8px; }
+    h2 { font-size: 22px; margin: 32px 0 8px; }
+    p, li { margin: 0 0 12px; }
+    .meta { color: #333; margin-bottom: 24px; }
+    a { color: #111; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Privacy policy</h1>
+    <p class="meta">UG Cable Survey Pro<br>Last updated: 30 September 2026</p>
+
+    <p>This policy explains what the Android app <strong>UG Cable Survey Pro</strong> does with information. The app is for field survey of underground power cables. It is published for Smart Lineman, smartlineman.in.</p>
+
+    <h2>Account</h2>
+    <p>To use the app you create an account with an email address and a password. After you sign in, the app asks for your full name and mobile number. An administrator approves the account and sets how long it stays open. The password is handled by the sign-in service. We do not ask you to send the password by email or WhatsApp.</p>
+    <p>The phone’s Android ID is sent with the account so that one rental stays on one phone. If Android does not provide that ID, the app keeps an ID created on that phone.</p>
+
+    <h2>Survey information</h2>
+    <p>The survey is saved on the phone first. That includes project name, place, voltage, the walked route, GPS coordinates, GPS accuracy, the time of each reading, structure and cable details, depths, notes, and landmark names.</p>
+    <p>A landmark photo, if you take one, stays on the phone. The survey position is written into that picture file. The current app does not upload those photos.</p>
+    <p>When you send a survey to the office, you choose to share a locked <span>.ugs</span> file, for example on WhatsApp. That file does not include photos. Whoever you send it to can open it in the office copy of this app.</p>
+
+    <h2>What leaves the phone</h2>
+    <p>When the phone is online, the account, approval, rental end date, device ID, and project details are stored with our sign-in and database provider, Supabase. Survey points, routes, and photos remain on the phone unless you share a <span>.ugs</span> file yourself.</p>
+    <p>The map downloads street pictures from OpenStreetMap when a picture is not already saved on the phone. Those requests go to OpenStreetMap’s tile servers. Saved pictures are reused for about 30 days.</p>
+    <p>We do not sell personal information. We do not show ads. We do not use the survey for advertising.</p>
+
+    <h2>Why we use it</h2>
+    <ul>
+      <li>To open the app only for an approved account, on the phone tied to that rental, until the end date.</li>
+      <li>To record the cable survey you make in the field.</li>
+      <li>To show the map around the survey.</li>
+      <li>To let you send the survey file to your office.</li>
+    </ul>
+
+    <h2>How long it is kept</h2>
+    <p>Survey files stay on the phone until you delete the project or remove the app. Account and project rows stay in the database until an administrator deletes them or you ask us to close the account. Closing the account does not by itself delete a <span>.ugs</span> file you already sent to someone else.</p>
+
+    <h2>Children</h2>
+    <p>The app is a work tool for surveyors. It is not directed at children.</p>
+
+    <h2>Your choices</h2>
+    <p>You can refuse location permission. The survey map and saved points need location, so that part of the work will not function. You can remove the app in the phone settings. To close an account or correct your name or mobile number, email us.</p>
+
+    <h2>Changes</h2>
+    <p>If this policy changes, the date at the top will change. The current page is the one linked from the Play listing and from smartlineman.in.</p>
+
+    <h2>Contact</h2>
+    <p>Smart Lineman<br>
+    Email: <a href="mailto:dipnkr.das@gmail.com">dipnkr.das@gmail.com</a><br>
+    Website: <a href="https://smartlineman.in">smartlineman.in</a></p>
+  </main>
+</body>
+</html>
